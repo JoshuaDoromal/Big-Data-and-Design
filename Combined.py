@@ -8,7 +8,6 @@ import os
 import fitz
 import requests
 import ollama
-from langchain_community.llms import Ollama
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.agents import create_openai_functions_agent, AgentExecutor
