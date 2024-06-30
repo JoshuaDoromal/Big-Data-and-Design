@@ -1,6 +1,6 @@
 streamlit
 openai
 pandas
-fitz
 requests
+pymupdf
 langchain
