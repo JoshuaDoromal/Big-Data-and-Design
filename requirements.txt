@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+fitz
+requests
+langchain
